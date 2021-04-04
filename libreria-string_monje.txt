@@ -1,0 +1,30 @@
+Respuestas de ejercicios de la librería string en el texto 'La joya del monje'
+
+- El texto del archivo de 'La joya del monje' es: 
+
+La joya del monje
+
+Un monje andariego se encontró, en uno de sus viajes, una piedra preciosa, y la guardó en su talega. Un día se encontró con un viajero y, al abrir su talega para compartir con él sus provisiones, el viajero vio la joya y se la pidió.
+
+El monje se la dio sin más. El viajero le dio las gracias y marchó lleno de gozo con aquel regalo inesperado de la piedra preciosa que bastaría para darle riqueza y seguridad todo el resto de sus días. Sin embargo, pocos días después volvió en busca del monje mendicante, lo encontró, le devolvió la joya y le suplicó: “ Ahora te ruego que me des algo de mucho más valor que esta joya… dame, por favor, lo que te permitió dármela a mí”.
+
+- Ejercicios: 
+
+- capwords(): 
+La Joya Del Monje Un Monje Andariego Se Encontró, En Uno De Sus Viajes, Una Piedra Preciosa, Y La Guardó En Su Talega. Un Día Se Encontró Con Un Viajero Y, Al Abrir Su Talega Para Compartir Con Él Sus Provisiones, El Viajero Vio La Joya Y Se La Pidió. El Monje Se La Dio Sin Más. El Viajero Le Dio Las Gracias Y Marchó Lleno De Gozo Con Aquel Regalo Inesperado De La Piedra Preciosa Que Bastaría Para Darle Riqueza Y Seguridad Todo El Resto De Sus Días. Sin Embargo, Pocos Días Después Volvió En Busca Del Monje Mendicante, Lo Encontró, Le Devolvió La Joya Y Le Suplicó: “ Ahora Te Ruego Que Me Des Algo De Mucho Más Valor Que Esta Joya… Dame, Por Favor, Lo Que Te Permitió Dármela A Mí”.
+
+- find(): 
+
+La palabra 'regalo' está en el texto en el  byte: 345
+
+- upper(): 
+
+LA JOYA DEL MONJE
+
+UN MONJE ANDARIEGO SE ENCONTRÓ, EN UNO DE SUS VIAJES, UNA PIEDRA PRECIOSA, Y LA GUARDÓ EN SU TALEGA. UN DÍA SE ENCONTRÓ CON UN VIAJERO Y, AL ABRIR SU TALEGA PARA COMPARTIR CON ÉL SUS PROVISIONES, EL VIAJERO VIO LA JOYA Y SE LA PIDIÓ.
+
+EL MONJE SE LA DIO SIN MÁS. EL VIAJERO LE DIO LAS GRACIAS Y MARCHÓ
+
+- split(): 
+
+['La', 'joya', 'del', 'monje', 'Un', 'monje', 'andariego', 'se', 'encontró,', 'en', 'uno', 'de', 'sus', 'viajes,', 'una', 'piedra', 'preciosa,', 'y', 'la', 'guardó', 'en', 'su', 'talega.', 'Un', 'día', 'se', 'encontró', 'con', 'un', 'viajero', 'y,', 'al', 'abrir', 'su', 'talega', 'para', 'compartir', 'con', 'él', 'sus', 'provisiones,', 'el', 'viajero', 'vio', 'la', 'joya', 'y', 'se', 'la', 'pidió']
